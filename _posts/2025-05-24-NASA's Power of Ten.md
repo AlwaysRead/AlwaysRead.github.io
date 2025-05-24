@@ -1,8 +1,8 @@
 ---
 title: "Lessons from NASA's Power of Ten: How to Write Safer, Cleaner Code in Your Everyday Projects"
 date: 2025-05-24 00:00:00 +0530
-categories: [Science, NASA]
-tags: [coding]
+categories: [Coding]
+tags: [C, C++]
 ---
 
 <img src="https://www.nasa.gov/wp-content/uploads/2018/07/s75-31690.jpeg" alt="NASA's Power of Ten Coding Rules" height="10">
